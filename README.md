@@ -55,5 +55,3 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 3. **Links**: Added LinkedIn and portfolio links for better professional presence.
 4. **Projects**: Highlights your work with direct links to repositories.
 5. **Visual Appeal**: Uses badges and GitHub Stats for an engaging look.
-
-どう思いますか？このフォーマットを参考に、さらにカスタマイズすることもできます！
