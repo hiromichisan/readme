@@ -1,51 +1,51 @@
-# Hi 👋, I'm Hiromichi  
-### コードを価値あるプロジェクトへ 🚀  
+# 実務経験に基づくスキルセット
 
-GitHubプロフィールへようこそ！  
-バックエンド開発やフルスタックプロジェクトに情熱を注ぐソフトウェアエンジニアです。複雑な問題の解決や、役立つアプリケーションの構築を得意としています。  
+## プログラミング・開発スキル
+- **Java**: Spring Bootを使用したWebアプリケーション開発。基本設計・詳細設計、コーディング、動作確認の経験あり。
+- **SQL/PL-SQL**: SQL文の作成・修正、パフォーマンスチューニングを実施。
+- **Oracle Database 19c**: データベース設計、運用管理の経験。
+- **BIツール**: Motion Boardを使用した画面作成経験。
 
----
+## 設計・構築スキル
+- **基本設計・詳細設計**: 仕様書作成および要件変更に伴う修正対応。
+- **VM構築**: OSSアップデートやセキュリティ向上に寄与。
+- **ネットワーク構築**: Cisco機器を使用したネットワーク設計・構築。
+- **Oracle Database**: 構築手順書作成、コマンドによるインストールと設定。
 
-## 🌟 私について  
-- 💻 現在は **Spring Boot** と **PostgreSQL** を使用しています。  
-- 🌱 **Ruby** を学習中で、**Ruby Silver 資格**を目指しています。  
-- 🎯 自己成長を促進する企業でのチャンスを模索中。  
-- 📚 **SQL最適化**、**バックエンドアーキテクチャ**、**クラウド技術**のスキルを継続的に向上中。  
+## テスト・品質管理
+- **テスト仕様書作成**: 各環境に適した詳細なテスト項目の設計。
+- **バグ・エラー解析**: OSSアップデート時のエラー対応。
+- **コードレビュー**: チームメンバーからのフィードバックを通じた品質向上。
 
----
+## 使用ツール・技術
+- **データベース関連**: Oracle Database 19c, SQL Developer
+- **バージョン管理**: Git, SVN（Subversion）
+- **ネットワーク関連**: Cisco Catalystシリーズ, Tera Term
+- **サーバー関連**: Apache, Tomcat, VMware
+- **ドキュメント作成**: Excel, Word, PowerPoint, サクラエディタ
 
-## 🛠️ スキルとツール  
-### プログラミング言語  
-- **Java**, **JavaScript**, **Ruby**  
+## 業務領域・プロジェクト実績
 
-### バックエンドフレームワーク  
-- **Spring Boot**, **Rails**  
+### VM構築支援案件（2024年11月～2025年1月）
+- **担当業務**: テスト仕様書作成、OSSアップデート、バグ・エラー解析。
+- **チーム規模**: 6人
 
-### データベース  
-- **MySQL**, **PostgreSQL**, **Oracle**  
+### 顧客管理システムの設計・開発（2024年1月～2024年9月）
+- **担当業務**: 基本設計・詳細設計、SQL/PL-SQLの作成・修正、SVNを用いたバージョン管理。
+- **チーム規模**: 20人
 
-### ツール & その他  
-- **Git**, **Linux**, **Figma**  
+### 官公庁向けシステム開発（2023年7月～2023年11月）
+- **担当業務**: JavaおよびSpring系フレームワークを使用したアプリケーション開発、SQL文の作成・修正。
+- **チーム規模**: 15人
 
----
+### DBエンジニアとして官公庁関連のDB構築（2023年2月～2023年5月）
+- **担当業務**: Oracle Databaseのインストール・設定、Windows/Linux環境でのコマンド操作。
+- **チーム規模**: 10人
 
-## 🔗 私とつながる  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiromichisan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+### ネットワークエンジニア業務（2022年6月～2022年12月）
+- **担当業務**: Cisco機器を使用したネットワーク構築・設計、疎通確認。
+- **チーム規模**: 3人
 
----
+### 自動車メーカーでの製造業務（2019年2月～2022年3月）
+- **担当業務**: 設備機器のトラブル対応やメンテナンス、品質管理業務。
 
-## 🌟 注目のプロジェクト  
-### 1. [プロジェクト名1](https://github.com/hiromichisan/project1)  
-- 説明: プロジェクトの概要や使用技術を簡潔に記載。  
-
-### 2. [プロジェクト名2](https://github.com/hiromichisan/project2)  
-- 説明: 主な機能や貢献内容を記載。  
-
----
-
-## 📈 GitHub スタッツ  
-![Hiromichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiromichisan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichisan&layout=compact&theme=radical)  
-
----
