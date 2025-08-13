@@ -1,7 +1,7 @@
 ## 💼 スキルセット
 
 ### バックエンド
-- Go（Gin/EchoフレームワークによるREST API開発・改修 / 約9ヶ月）
+- Go（GinフレームワークによるREST API開発・改修 / 約9ヶ月）
 - Python（AWS Lambda連携・バッチ処理開発 / 約9ヶ月）
 - Java（Spring Boot + MyBatisによるWebアプリ・バッチ処理 / 約2年）
 - JavaScript / TypeScript（Reactを用いたUI改善・フロントエンド開発 / 約1年）
