@@ -1,50 +1,29 @@
-# 実務経験に基づくスキルセット
+## 💼 スキルセット
 
-## プログラミング・開発スキル
-- **Java**: Spring Bootを使用したWebアプリケーション開発。動作確認の経験あり。
-- **SQL/PL-SQL**: SQL文の作成・修正、パフォーマンスチューニングを実施。
-- **Oracle Database 19c**: データベース設計、運用管理の経験。
+### バックエンド
+- Go（Gin/EchoフレームワークによるREST API開発・改修 / 約9ヶ月）
+- Python（AWS Lambda連携・バッチ処理開発 / 約9ヶ月）
+- Java（Spring Boot + MyBatisによるWebアプリ・バッチ処理 / 約2年）
+- JavaScript / TypeScript（Reactを用いたUI改善・フロントエンド開発 / 約1年）
+- SQL（Oracle / MySQL / PostgreSQL、DB設計・チューニング / 約1年）
 
-## 設計・構築スキル
-- **基本設計・詳細設計**: 仕様書作成および要件変更に伴う修正対応。
-- **VM構築**: OSSアップデートやセキュリティ向上に寄与。
-- **ネットワーク構築**: Cisco機器を使用したネットワーク設計・構築。
-- **Oracle Database**: 構築手順書作成、コマンドによるインストールと設定。
+### フロントエンド
+- HTML / CSS（UI構築・画面設計）
+- JavaScript (Vanilla JS, Fetch APIによる非同期通信)
+- React（TypeScript併用）
 
-## テスト・品質管理
-- **テスト仕様書作成**: 各環境に適した詳細なテスト項目の設計。
-- **バグ・エラー解析**: OSSアップデート時のエラー対応。
-- **コードレビュー**: チームメンバーからのフィードバックを通じた品質向上。
+### クラウド・インフラ
+- AWS（EC2, Lambda, API Gateway, CloudWatch, S3, SQS, SNS, Cognito）
+- Google Cloud（Maps API連携）
+- Oracle Database（設計・構築・運用）
+- Ciscoネットワーク機器（設計・構築・保守）
 
-## 使用ツール・技術
-- **データベース関連**: Oracle Database 19c, SQL Developer
-- **バージョン管理**: Git, SVN（Subversion）
-- **ネットワーク関連**: Cisco Catalystシリーズ, Tera Term
-- **サーバー関連**: Apache, Tomcat, VMware
-- **ドキュメント作成**: Excel, Word, PowerPoint, サクラエディタ
+### 開発手法・ツール
+- アジャイル（スクラム開発）
+- CI/CD環境構築（GitHub Actions, Docker）
+- Git / GitHub
+- Slack, Teams, VSCode
 
-## 業務領域・プロジェクト実績
-
-### VM構築支援案件（2024年11月～2025年1月）
-- **担当業務**: テスト仕様書作成、OSSアップデート、バグ・エラー解析。
-- **チーム規模**: 6人
-
-### 顧客管理システムの設計・開発（2024年1月～2024年10月）
-- **担当業務**: 基本設計・詳細設計、SQL/PL-SQLの作成・修正、SVNを用いたバージョン管理。
-- **チーム規模**: 20人
-
-### 官公庁向けシステム開発（2023年7月～2023年11月）
-- **担当業務**: JavaおよびSpring系フレームワークを使用したアプリケーション開発、SQL文の作成・修正。
-- **チーム規模**: 15人
-
-### DBエンジニアとして官公庁関連のDB構築（2023年2月～2023年5月）
-- **担当業務**: Oracle Databaseのインストール・設定、Windows/Linux環境でのコマンド操作。
-- **チーム規模**: 10人
-
-### ネットワークエンジニア業務（2022年6月～2022年12月）
-- **担当業務**: Cisco機器を使用したネットワーク構築・設計、疎通確認。
-- **チーム規模**: 3人
-
-### 自動車メーカーでの製造業務（2019年2月～2022年3月）
-- **担当業務**: 設備機器のトラブル対応やメンテナンス、品質管理業務。
-
+### 保有資格
+- AWS Certified Cloud Practitioner
+- Java Programmer, Gold SE 8
